@@ -36,7 +36,7 @@ This application is designed to solve the floor tiling problem where the user ne
 
 ## Screen Capture
 
-<!-- Add your screen capture here. -->
+![](https://github.com/c1flores/Car-Comparison-Utility/assets/81927296/512ebc3a-dabb-4bc3-92e5-7bebe060e6c6)
 
 <br />
 
@@ -64,7 +64,7 @@ cd PATH_TO_DIRECTORY
 
 2. Navigate to the directory containing the Java file, and then compile it
 ```sh
-cd src/assets/java
+cd assets/Java
 javac FloorTiling.java
 ```
 
@@ -73,5 +73,5 @@ javac FloorTiling.java
 3. Go back to the root directory and run the program using the fully qualified name
 ```sh
 cd ../../..
-java -cp src src.assets.java.FloorTiling
+java assets/Java/FloorTiling
 ```

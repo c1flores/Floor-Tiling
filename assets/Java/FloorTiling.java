@@ -1,4 +1,4 @@
-package src.assets.java;
+package src.assets.Java;
 
 public class FloorTiling {
 
